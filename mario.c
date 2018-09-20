@@ -18,7 +18,6 @@ int main(void)
         printHashes(i);
         printf("  ");
         printHashes(i);
-        printBlanks(rows, i);
         printf("\n");
     }
 }
